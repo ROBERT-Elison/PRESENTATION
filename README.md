@@ -16,7 +16,7 @@
 
 <h1>ROBERT Elison</h1>
 
-*DEVELOPPEUR WEB et WEB mobile  
+*Formation : DEVELOPPEUR WEB et WEB mobile  
 
 <h1>Les 3 grandes compétences du référenciel</h1>  
 
@@ -24,8 +24,12 @@
 
 *Créer une base de donnée    
 
-*Développer les composants d'accès    
+*Développer les composants d'accès  
 
-*12 mois
+<h1>durée de formation</h1>  
+
+*12 mois  
+
+<h1>Nombre d'apprenant dans la formation</h1>  
 
 *12 apprenants dans la formation  
