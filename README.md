@@ -7,7 +7,7 @@
 *18 ans  
 *26 rue du marsouin appt 3 97400 Saint-Denis  
 *Française  
-*Section 4  
+*Section panthère 2  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -18,7 +18,13 @@
 
 *DEVELOPPEUR WEB et WEB mobile  
 
-*Les 3 grandes compétences du référenciel  
+<h1>Les 3 grandes compétences du référenciel</h1>  
+
+*Développer une interface utilisateur dynamique    
+
+*Créer une base de donnée    
+
+*Développer les composants d'accès    
 
 *12 mois
 
