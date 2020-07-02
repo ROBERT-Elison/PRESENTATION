@@ -16,7 +16,7 @@
 
 <h1>ROBERT Elison</h1>
 
-*DEVELOPPEUR WEB  
+*DEVELOPPEUR WEB et WEB mobile  
 
 *Les 3 grandes compétences du référenciel  
 
